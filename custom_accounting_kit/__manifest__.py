@@ -1,5 +1,6 @@
 {'name': 'All-in-One Accounting Kit for Community',
  'version': '19.0.1.0.0',
+ 'license': 'LGPL-3',
  'category': 'Accounting',
  'summary': 'Community accounting: financial reports, assets, budgets, customer follow-ups, recurring payments and fiscal closing',
  'description': '''
@@ -38,7 +39,7 @@ before replacing them with this consolidated module.
 Maintainer: Mitchel Admin
 Support: erpmitchellodoo@gmail.com
 ''',
- 'images': ['static/description/banner.png'],
+ 'images': ['static/description/cover.png'],
  'author': 'Mitchel Admin',
  'maintainer': 'Mitchel Admin',
  'support': 'erpmitchellodoo@gmail.com',
