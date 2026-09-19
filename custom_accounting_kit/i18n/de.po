@@ -1,0 +1,2491 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Accounting Kit 19.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+msgid ": General ledger"
+msgstr ": Hauptbuch"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid ": Trial Balance"
+msgstr ": Probebilanz"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "<span>Not due</span>"
+msgstr "<span>Nicht fällig</span>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_tax
+msgid "<strong>Company:</strong>"
+msgstr "<strong>Unternehmen:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_tax
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "<strong>Date from :</strong>"
+msgstr "<strong>Datum von:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_tax
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "<strong>Date to :</strong>"
+msgstr "<strong>Datum bis:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "<strong>Display Account:</strong>"
+msgstr "<strong>Anzeigekonto:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+msgid "<strong>Display Account</strong>"
+msgstr "<strong>Display-Konto</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "<strong>Entries Sorted By:</strong>"
+msgstr "<strong>Einträge sortiert nach:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "<strong>Journal:</strong>"
+msgstr "<strong>Journal:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+msgid "<strong>Journals:</strong>"
+msgstr "<strong>Zeitschriften:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "<strong>Partner's:</strong>"
+msgstr "<strong>Partner:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "<strong>Period Length (days)</strong>"
+msgstr "<strong>Periodenlänge (Tage)</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_tax
+msgid "<strong>Purchase</strong>"
+msgstr "<strong>Kauf</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+msgid "<strong>Sorted By:</strong>"
+msgstr "<strong>Sortiert nach:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "<strong>As of Date:</strong>"
+msgstr "<strong>Stichtag:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "<strong>Target Moves:</strong>"
+msgstr "<strong>Zielbewegungen:</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "<strong>Total</strong>"
+msgstr "<strong>Gesamt</strong>"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "Account"
+msgstr "Konto"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_aged_trial_balance
+msgid "Account Aged Trial balance Report"
+msgstr "Bilanzbericht Konto nach Alter"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_common_account_report
+msgid "Account Common Account Report"
+msgstr "Konto gemeinsamer Kontobericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_common_partner_report
+msgid "Account Common Partner Report"
+msgstr "Account Gemeinsamer Partnerbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_report_partner_ledger
+msgid "Account Partner Ledger"
+msgstr "Account-Partner-Ledger"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_print_journal
+msgid "Account Print Journal"
+msgstr "Finanz-Journal drucken"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_financial_report
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__children_ids
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_financial_report_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_financial_report_search
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_financial_report_tree
+msgid "Account Report"
+msgstr "Kontobericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__account_report_id
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_reports
+msgid "Account Reports"
+msgstr "Kontoberichte"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "Account Total"
+msgstr "Kontosumme"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__type__account_type
+msgid "Account Type"
+msgstr "Konto Typ"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_accounting_report
+msgid "Accounting Report"
+msgstr "Buchhaltungsbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__account_ids
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__type__accounts
+msgid "Accounts"
+msgstr "Konten"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_aged_balance_view
+#: model:ir.actions.report,name:custom_accounting_kit.action_report_aged_partner_balance
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_aged_trial_balance
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "Aged Partner Balance"
+msgstr "Alter Partnerausgleich"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_report_accounting_pdf_reports_report_agedpartnerbalance
+msgid "Aged Partner Balance Report"
+msgstr "Saldobericht des gealterten Partners"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_balance_report__display_account__all
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_common_account_report__display_account__all
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_report_general_ledger__display_account__all
+msgid "All"
+msgstr "Alle"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "All Entries"
+msgstr "Alle Einträge"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "All Posted Entries"
+msgstr "Alle geposteten Einträge"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "All accounts"
+msgstr "Alle Konten"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+msgid "All accounts'"
+msgstr "Alle Konten'"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__date_from
+msgid "As of Date"
+msgstr "Stichtag"
+
+#. module: custom_accounting_kit
+#: model:custom.account.financial.report,name:custom_accounting_kit.account_financial_report_assets0
+msgid "Assets"
+msgstr "Vermögenswerte"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__style_overwrite__0
+msgid "Automatic formatting"
+msgstr "Automatische Formatierung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__balance
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__balance
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "Balance"
+msgstr "Gleichgewicht"
+
+#. module: custom_accounting_kit
+#: model:custom.account.financial.report,name:custom_accounting_kit.account_financial_report_balancesheet0
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_report_bs
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_report_bs
+msgid "Balance Sheet"
+msgstr "Bilanz"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "Base Amount"
+msgstr "Grundbetrag"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.account_aged_balance_view
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_print
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "Code"
+msgstr "Code"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__label_filter
+msgid "Column Label"
+msgstr "Spaltenbezeichnung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__company_id
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Company"
+msgstr "Unternehmen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.accounting_report_view
+msgid "Comparison"
+msgstr "Vergleich"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results__create_uid
+msgid "Created by"
+msgstr "Erstellt von"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results__create_date
+msgid "Created on"
+msgstr "Erstellt am"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__credit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "Credit"
+msgstr "Kredit"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+msgid "Currency"
+msgstr "Währung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_print_journal__sort_selection__date
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_report_general_ledger__sortby__sort_date
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__accounting_report__filter_cmp__filter_date
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+msgid "Date"
+msgstr "Datum"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.accounting_report_view
+msgid "Dates"
+msgstr "Termine"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__debit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "Debit"
+msgstr "Lastschrift"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__display_account
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__display_account
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__display_account
+msgid "Display Accounts"
+msgstr "Konten anzeigen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__debit_credit
+msgid "Display Debit/Credit Columns"
+msgstr "Soll/Haben-Spalten anzeigen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_agedpartnerbalance__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_financial__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_general_ledger__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_journal__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_partnerledger__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_tax__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_trialbalance__display_name
+msgid "Display Name"
+msgstr "Anzeigename"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__display_detail__detail_flat
+msgid "Display children flat"
+msgstr "Kinder flach anzeigen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__display_detail__detail_with_hierarchy
+msgid "Display children with hierarchy"
+msgstr "Kinder mit Hierarchie anzeigen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__display_detail
+msgid "Display details"
+msgstr "Details anzeigen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__enable_filter
+msgid "Enable Comparison"
+msgstr "Vergleich aktivieren"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__date_to
+msgid "End Date"
+msgstr "Enddatum"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__sort_selection
+msgid "Entries Sorted by"
+msgstr "Buchungen sortiert nach"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+msgid "Entry Label"
+msgstr "Eintragsetikett"
+
+#. module: custom_accounting_kit
+#: model:custom.account.financial.report,name:custom_accounting_kit.account_financial_report_expense0
+msgid "Expense"
+msgstr "Aufwand"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__filter_cmp
+msgid "Filter by"
+msgstr "Filtern nach"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.report,name:custom_accounting_kit.action_report_financial
+msgid "Financial Report"
+msgstr "Finanzbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__style_overwrite
+msgid "Financial Report Style"
+msgstr "Stil des Finanzberichts"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_financial_report_tree
+#: model:ir.model,name:custom_accounting_kit.model_report_accounting_pdf_reports_report_financial
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_finance_reports_settings
+msgid "Financial Reports"
+msgstr "Finanzbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_account_financial_report__sign
+msgid ""
+"For accounts that are typically more debited than credited and that you "
+"would like to print as negative amounts in your reports, you should reverse "
+"the sign of the balance; e.g.: Expense account. The same applies for "
+"accounts that are typically more credited than debited and that you would "
+"like to print as positive amounts in your reports; e.g.: Income account."
+msgstr ""
+"Bei Konten, die in der Regel mehr belastet als gutgeschrieben werden und die"
+" Sie in Ihren Berichten als negative Beträge drucken möchten, sollten Sie "
+"das Vorzeichen des Saldos umkehren; Bsp.: Spesenkonto. Dasselbe gilt für "
+"Konten, die normalerweise mehr gutgeschrieben als belastet sind und die Sie "
+"in Ihren Berichten als positive Beträge drucken möchten; Bsp.: "
+"Einkommenskonto."
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/report/report_aged_partner.py:0
+#: code:addons/custom_accounting_kit/report/report_financial.py:0
+#: code:addons/custom_accounting_kit/report/report_general_ledger.py:0
+#: code:addons/custom_accounting_kit/report/report_journal.py:0
+#: code:addons/custom_accounting_kit/report/report_partner_ledger.py:0
+#: code:addons/custom_accounting_kit/report/report_tax.py:0
+#: code:addons/custom_accounting_kit/report/report_trial_balance.py:0
+msgid "Form content is missing, this report cannot be printed."
+msgstr "Formularinhalt fehlt, dieser Bericht kann nicht gedruckt werden."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__date_from_cmp
+msgid "From Date"
+msgstr "Ab Datum"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_general_ledger_menu
+#: model:ir.actions.report,name:custom_accounting_kit.action_report_general_ledger
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_general_ledger
+msgid "General Ledger"
+msgstr "Hauptbuch"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_report_general_ledger
+#: model:ir.model,name:custom_accounting_kit.model_report_accounting_pdf_reports_report_general_ledger
+msgid "General Ledger Report"
+msgstr "Hauptbuchbericht"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_financial_report_search
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Group By"
+msgstr "Gruppiere nach"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_agedpartnerbalance__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_financial__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_general_ledger__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_journal__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_partnerledger__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_tax__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_trialbalance__id
+msgid "ID"
+msgstr "ICH WÜRDE"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_account_report_general_ledger__initial_balance
+msgid ""
+"If you selected date, this field allow you to add a row to display the "
+"amount of debit/credit/balance that precedes the filter you've set."
+msgstr ""
+"Wenn Sie ein Datum ausgewählt haben, können Sie in diesem Feld eine Zeile "
+"hinzufügen, um den Soll-/Haben-/Saldobetrag anzuzeigen, der dem von Ihnen "
+"festgelegten Filter vorausgeht."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__initial_balance
+msgid "Include Initial Balances"
+msgstr "Anfangssalden einschließen"
+
+#. module: custom_accounting_kit
+#: model:custom.account.financial.report,name:custom_accounting_kit.account_financial_report_income0
+msgid "Income"
+msgstr "Einkommen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_account_report_partner_ledger__amount_currency
+msgid ""
+"It adds the currency column on report if the currency differs from the "
+"company currency."
+msgstr ""
+"Es fügt dem Bericht die Währungsspalte hinzu, wenn die Währung von der "
+"Unternehmenswährung abweicht."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__style_overwrite__5
+msgid "Italic Text (smaller)"
+msgstr "Kursiver Text (kleiner)"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+msgid "JRNL"
+msgstr "JRNL"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "Journal"
+msgstr "Tagebuch"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_report_general_ledger__sortby__sort_journal_partner
+msgid "Journal & Partner"
+msgstr "Zeitschrift & Partner"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_report_accounting_pdf_reports_report_journal
+msgid "Journal Audit Report"
+msgstr "Audit-Bericht des Journals"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_print_journal__sort_selection__move_name
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "Journal Entry Number"
+msgstr "Belegnummer"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+msgid "Journal and Partner"
+msgstr "Zeitschrift und Partner"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__journal_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__journal_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__journal_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__journal_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__journal_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__journal_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__journal_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__journal_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__journal_ids
+msgid "Journals"
+msgstr "Journale"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_print_journal_menu
+#: model:ir.actions.report,name:custom_accounting_kit.action_report_journal
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_print_journal
+msgid "Journals Audit"
+msgstr "Journal Prüfung"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "Label"
+msgstr "Etikett"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_agedpartnerbalance____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_financial____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_general_ledger____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_journal____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_partnerledger____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_tax____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_report_accounting_pdf_reports_report_trialbalance____last_update
+msgid "Last Modified on"
+msgstr "Zuletzt geändert am"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results__write_uid
+msgid "Last Updated by"
+msgstr "Zuletzt aktualisiert durch"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results__write_date
+msgid "Last Updated on"
+msgstr "Zuletzt aktualisiert am"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__level
+msgid "Level"
+msgstr "Eben"
+
+#. module: custom_accounting_kit
+#: model:custom.account.financial.report,name:custom_accounting_kit.account_financial_report_liability0
+#: model:custom.account.financial.report,name:custom_accounting_kit.account_financial_report_liabilitysum0
+msgid "Liability"
+msgstr "Haftung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__style_overwrite__1
+msgid "Main Title 1 (bold, underlined)"
+msgstr "Haupttitel 1 (fett, unterstrichen)"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "Move"
+msgstr "Umzug"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__name
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_financial
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "Name"
+msgstr "Name"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_tax
+msgid "Net"
+msgstr "Netz"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__accounting_report__filter_cmp__filter_no
+msgid "No Filters"
+msgstr "Keine Filter"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__display_detail__no_detail
+msgid "No detail"
+msgstr "Kein Detail"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__style_overwrite__4
+msgid "Normal Text"
+msgstr "Normaler Text"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_finance_legal_statement
+msgid "PDF Reports"
+msgstr "PDF-Berichte"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__parent_id
+msgid "Parent"
+msgstr "Elternteil"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_financial_report_search
+msgid "Parent Report"
+msgstr "Elternbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__partner_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__partner_id
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Partner"
+msgstr "Partner"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_partner_ledger_menu
+#: model:ir.actions.report,name:custom_accounting_kit.action_report_partnerledger
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_partner_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+msgid "Partner Ledger"
+msgstr "Partnerbuch"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_report_accounting_pdf_reports_report_partnerledger
+msgid "Partner Ledger Report"
+msgstr "Partnerbuchbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__result_selection
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__result_selection
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__result_selection
+msgid "Partner's"
+msgstr "Partner"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__partner_ids
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "Partners"
+msgstr "Partner"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_aged_trial_balance__result_selection__supplier
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_common_partner_report__result_selection__supplier
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_report_partner_ledger__result_selection__supplier
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "Payable Accounts"
+msgstr "Zahlbare Konten"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__period_length
+msgid "Period Length (days)"
+msgstr "Periodendauer (Tage)"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__sign__1
+msgid "Preserve balance sign"
+msgstr "Gleichgewichtszeichen beibehalten"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.account_aged_balance_view
+msgid "Print"
+msgstr "Drucken"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_account_print_journal__amount_currency
+msgid ""
+"Print Report with the currency column if the currency differs from the "
+"company currency."
+msgstr ""
+"Bei abweichender Währung sollten Auswertungen immer die Spalte Währung mit "
+"beinhalten."
+
+#. module: custom_accounting_kit
+#: model:custom.account.financial.report,name:custom_accounting_kit.account_financial_report_profitloss_toreport0
+msgid "Profit (Loss) to report"
+msgstr "Gewinn (Verlust) zu melden"
+
+#. module: custom_accounting_kit
+#: model:custom.account.financial.report,name:custom_accounting_kit.account_financial_report_profitandloss0
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_report_pl
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_report_pl
+msgid "Profit and Loss"
+msgstr "Gewinn-und Verlust"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_aged_trial_balance__result_selection__customer
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_common_partner_report__result_selection__customer
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_report_partner_ledger__result_selection__customer
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "Receivable Accounts"
+msgstr "Forderungskonten"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_aged_trial_balance__result_selection__customer_supplier
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_common_partner_report__result_selection__customer_supplier
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_report_partner_ledger__result_selection__customer_supplier
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "Receivable and Payable Accounts"
+msgstr "Debitoren- und Kreditorenkonten"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__reconciled
+msgid "Reconciled Entries"
+msgstr "Abgeglichene Einträge"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_partnerledger
+msgid "Ref"
+msgstr "Ref"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_financial_report_form
+msgid "Report"
+msgstr "Prüfbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__name
+msgid "Report Name"
+msgstr "Berichtsname"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.account_aged_balance_view
+msgid "Report Options"
+msgstr "Berichtsoptionen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_financial_report_search
+msgid "Report Type"
+msgstr "Berichtstyp"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__account_report_id
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__type__account_report
+msgid "Report Value"
+msgstr "Berichtswert"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__sign__-1
+msgid "Reverse balance sign"
+msgstr "Umgekehrtes Gleichgewichtszeichen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_tax
+msgid "Sale"
+msgstr "Verkauf"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__sequence
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__sequence
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__latest_followup_sequence
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__latest_followup_sequence
+msgid "Sequence"
+msgstr "Reihenfolge"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__sign
+msgid "Sign on Reports"
+msgstr "Berichte anmelden"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__style_overwrite__6
+msgid "Smallest Text"
+msgstr "Kleinster Text"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__sortby
+msgid "Sort by"
+msgstr "Sortiere nach"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__date_from
+msgid "Start Date"
+msgstr "Startdatum"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_aged_trial_balance__target_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_balance_report__target_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_account_report__target_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_common_partner_report__target_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__target_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_general_ledger__target_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__target_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_tax_report_wizard__target_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__target_move
+msgid "Target Moves"
+msgstr "Filter Buchungen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_tax
+msgid "Tax"
+msgstr "Steuer"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "Tax Amount"
+msgstr "Steuerbetrag"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_journal
+msgid "Tax Declaration"
+msgstr "Steuererklärung"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.report,name:custom_accounting_kit.action_report_account_tax
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_tax_report_wizard
+#: model:ir.model,name:custom_accounting_kit.model_report_accounting_pdf_reports_report_tax
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_report
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_tax
+msgid "Tax Report"
+msgstr "Steuerbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_tax_report
+msgid "Tax Reports"
+msgstr "Steuerberichte"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_accounting_report__label_filter
+msgid ""
+"This label will be displayed on report to show the balance computed for the "
+"given comparison filter."
+msgstr ""
+"Diese Bezeichnung wird im Bericht angezeigt, um den für den angegebenen "
+"Vergleichsfilter berechneten Saldo anzuzeigen."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_accounting_report__debit_credit
+msgid ""
+"This option allows you to get more details about the way your balances are "
+"computed. Because it is space consuming, we do not allow to use it while "
+"doing a comparison."
+msgstr ""
+"Mit dieser Option können Sie mehr Details darüber erfahren, wie Ihre Salden "
+"berechnet werden. Da es platzraubend ist, erlauben wir es nicht, es während "
+"eines Vergleichs zu verwenden."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__style_overwrite__2
+msgid "Title 2 (bold)"
+msgstr "Titel 2 (fett)"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__style_overwrite__3
+msgid "Title 3 (bold, smaller)"
+msgstr "Titel 3 (fett, kleiner)"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_accounting_report__date_to_cmp
+msgid "To Date"
+msgstr "Miteinander ausgehen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_agedpartnerbalance
+msgid "Total"
+msgstr "Gesamt"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_balance_menu
+#: model:ir.actions.report,name:custom_accounting_kit.action_report_trial_balance
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_general_Balance_report
+msgid "Trial Balance"
+msgstr "Probebilanz"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_balance_report
+#: model:ir.model,name:custom_accounting_kit.model_report_accounting_pdf_reports_report_trialbalance
+msgid "Trial Balance Report"
+msgstr "Probebilanzbericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_financial_report__type
+msgid "Type"
+msgstr "Typ"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/report/report_aged_partner.py:0
+msgid "Unknown Partner"
+msgstr "Unbekannter Partner"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_financial_report__type__sum
+msgid "View"
+msgstr "Aussicht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_print_journal__amount_currency
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_report_partner_ledger__amount_currency
+msgid "With Currency"
+msgstr "Mit Währung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_balance_report__display_account__not_zero
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_common_account_report__display_account__not_zero
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_report_general_ledger__display_account__not_zero
+msgid "With balance is not equal to 0"
+msgstr "Mit Saldo ungleich 0"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "With balance not equal to zero"
+msgstr "Mit Saldo ungleich Null"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_balance_report__display_account__movement
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_common_account_report__display_account__movement
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_report_general_ledger__display_account__movement
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_general_ledger
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_trialbalance
+msgid "With movements"
+msgstr "Mit Bewegungen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_account_financial_report__style_overwrite
+msgid ""
+"You can set up here the format you want this record to be displayed. If you "
+"leave the automatic formatting, it will be computed based on the financial "
+"reports hierarchy (auto-computed field 'level')."
+msgstr ""
+"Sie können hier das Format festlegen, in dem dieser Datensatz angezeigt "
+"werden soll. Wenn Sie die automatische Formatierung verlassen, wird sie "
+"basierend auf der Finanzberichtshierarchie (automatisch berechnetes Feld "
+"„Ebene“) berechnet."
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/account_general_ledger.py:0
+msgid "You must define a Start Date"
+msgstr "Sie müssen ein Startdatum definieren"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/aged_partner.py:0
+msgid "You must set a period length greater than 0."
+msgstr "Sie müssen eine Periodenlänge größer als 0 einstellen."
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/aged_partner.py:0
+msgid "You must set an as of date."
+msgstr "Sie müssen einen Stichtag festlegen."
+
+#. module: custom_accounting_kit
+#: model:custom.followup.line,description:custom_accounting_kit.demo_followup_line3
+msgid ""
+"\n"
+"                Dear %(partner_name)s,\n"
+"\n"
+"                Despite several reminders, your account is still not settled.\n"
+"\n"
+"                Unless full payment is made in next 8 days, then legal action\n"
+"                for the recovery of the debt will be taken without further\n"
+"                notice.\n"
+"\n"
+"                I trust that this action will prove unnecessary and details of\n"
+"                due payments is printed below.\n"
+"\n"
+"                In case of any queries concerning this matter, do not hesitate\n"
+"                to contact our accounting department.\n"
+"\n"
+"                Best Regards,\n"
+"            "
+msgstr ""
+"\n"
+"Sehr geehrte %(partner_name)s,\n"
+"\n"
+"Trotz mehrfacher Mahnung ist Ihr Konto immer noch nicht beglichen.\n"
+"\n"
+"Sofern die vollständige Zahlung nicht innerhalb der nächsten 7 Tage erfolgt, werden rechtliche Schritte eingeleitet.\n"
+"\n"
+"Fällige Zahlungen werden unten gedruckt.\n"
+"\n"
+"Bei Fragen zu diesem Thema zögern Sie nicht\n"
+"unsere Buchhaltung zu kontaktieren.\n"
+"\n"
+"Mit freundlichen Grüßen,\n"
+
+#. module: custom_accounting_kit
+#: model:custom.followup.line,description:custom_accounting_kit.demo_followup_line1
+msgid ""
+"\n"
+"                Dear %(partner_name)s,\n"
+"\n"
+"                Exception made if there was a mistake of ours, it seems that\n"
+"                the following amount stays unpaid. Please, take appropriate\n"
+"                measures in order to carry out this payment in the next 8 days.\n"
+"\n"
+"                Would your payment have been carried out after this mail was\n"
+"                sent, please ignore this message. Do not hesitate to contact\n"
+"                our accounting department.\n"
+"\n"
+"                Best Regards,\n"
+"            "
+msgstr ""
+"\n"
+"Sehr geehrte %(partner_name)s,\n"
+"\n"
+"bei der oben aufgeführten Rechnung konnten wir leider noch keinen Zahlungseingang feststellen. Sicherlich handelt es sich nur um ein Versehen.\n"
+"\n"
+"Die Ausgangsrechnung liegt diesem Schreiben in Kopie bei. Da wir bislang nichts von Ihnen gehört haben, hoffen wir, dass Sie mit unseren Leistungen zufrieden waren. Sollte es diesbezüglich Beanstandungen geben, dann lassen Sie uns dies bitte umgehend wissen. \n"
+"\n"
+"Bei Rückfragen können Sie sich jederzeit an uns wenden. Sollten Sie die Zahlung mittlerweile veranlasst haben, betrachten Sie dieses Schreiben bitte als gegenstandslos.\n"
+"\n"
+"Mit freundlichen Grüßen,"
+
+#. module: custom_accounting_kit
+#: model:custom.followup.line,description:custom_accounting_kit.demo_followup_line2
+msgid ""
+"\n"
+"                Dear %(partner_name)s,\n"
+"\n"
+"                We are disappointed to see that despite sending a reminder,\n"
+"                that your account is now seriously overdue.\n"
+"\n"
+"                It is essential that immediate payment is made, otherwise we\n"
+"                will have to consider placing a stop on your account which\n"
+"                means that we will no longer be able to supply your company\n"
+"                with (goods/services).\n"
+"                Please, take appropriate measures in order to carry out this\n"
+"                payment in the next 8 days.\n"
+"\n"
+"                If there is a problem with paying invoice that we are not aware\n"
+"                of, do not hesitate to contact our accounting department, so\n"
+"                that we can resolve the matter quickly.\n"
+"\n"
+"                Details of due payments is printed below.\n"
+"\n"
+"                Best Regards,\n"
+"            "
+msgstr ""
+"\n"
+"Sehr geehrte %(partner_name)s,\n"
+"\n"
+"mit bedauern müssen wir feststellen, dass wir trotz einer Zahlungserinnerung\n"
+"noch keinen Zahlungseingang von Ihnen feststellen konnten.\n"
+"\n"
+"Bitte überweisen Sie den fälligen Betrag in den nächsten 7 Tagen.\n"
+"\n"
+"Falls es ein Problem mit der Rechnung gibt, zögern Sie nicht, unsere Buchhaltung zu kontaktieren damit wir die Angelegenheit zeitnah klären können.\n"
+"\n"
+"Details zu fälligen Zahlungen sind unten abgedruckt.\n"
+"\n"
+"Mit freundlichen Grüßen"
+
+#. module: custom_accounting_kit
+#: model:mail.template,body_html:custom_accounting_kit.email_template_custom_account_followup_level0
+msgid ""
+"\n"
+"<div style=\"font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); \">\n"
+"\n"
+"    <p>Dear <t t-out=\"object.name\"/>,</p>\n"
+"    <p>\n"
+"    Exception made if there was a mistake of ours, it seems that the following amount stays unpaid. Please, take\n"
+"appropriate measures in order to carry out this payment in the next 8 days.\n"
+"\n"
+"Would your payment have been carried out after this mail was sent, please ignore this message. Do not hesitate to\n"
+"contact our accounting department.  \n"
+"\n"
+"    </p>\n"
+"<br/>\n"
+"Best Regards,\n"
+"<br/>\n"
+"   <br/>\n"
+"<t t-out=\"user.name\" />\n"
+"\n"
+"<br/>\n"
+"<br/>\n"
+"\n"
+"\n"
+"<t t-out=\"object.get_followup_table_html()\" />\n"
+"\n"
+"    <br/>\n"
+"\n"
+"</div>\n"
+"            "
+msgstr ""
+"\n"
+"<div style=\"font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: #222222; background-color: #ffffff; \">\n"
+"\n"
+"    <p style=\"margin:0px 0 12px 0;box-sizing:border-box;\">Sehr geehrte ${object.name},</p>\n"
+"    <p style=\"margin:0px 0 12px 0;box-sizing:border-box;\">\n"
+"    Bei der oben aufgeführten Rechnung konnten wir leider noch keinen Zahlungseingang feststellen. Sicherlich handelt es sich nur um ein Versehen.\n"
+"\n"
+"Die Ausgangsrechnung liegt diesem Schreiben in Kopie bei. Da wir bislang nichts von Ihnen gehört haben, hoffen wir, dass Sie mit unseren Leistungen zufrieden waren. Sollte es diesbezüglich Beanstandungen geben, dann lassen Sie uns dies bitte umgehend wissen. \n"
+"\n"
+"Bei Rückfragen können Sie sich jederzeit an uns wenden. Sollten Sie die Zahlung mittlerweile veranlasst haben, betrachten Sie dieses Schreiben bitte als gegenstandslos.  \n"
+"\n"
+"    </p>\n"
+"<br>\n"
+"Mit freundlichen Grüßen,\n"
+"<br>\n"
+"   <br>\n"
+"<t t-out=\"user.name\" />\n"
+"\n"
+"<br>\n"
+"<br>\n"
+"\n"
+"\n"
+"<t t-out=\"object.get_followup_table_html()\" />\n"
+"\n"
+"    <br>\n"
+"\n"
+"</div>\n"
+"            "
+
+#. module: custom_accounting_kit
+#: model:mail.template,body_html:custom_accounting_kit.email_template_custom_account_followup_level2
+msgid ""
+"\n"
+"<div style=\"font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); \">\n"
+"    \n"
+"    <p>Dear <t t-out=\"object.name\"/>,</p>\n"
+"    <p>\n"
+"    Despite several reminders, your account is still not settled.\n"
+"Unless full payment is made in next 8 days, legal action for the recovery of the debt will be taken without\n"
+"further notice.\n"
+"I trust that this action will prove unnecessary and details of due payments is printed below.\n"
+"In case of any queries concerning this matter, do not hesitate to contact our accounting department.\n"
+"</p>\n"
+"<br/>\n"
+"Best Regards,\n"
+"<br/>\n"
+"<br/>\n"
+"<t t-out=\"user.name\" />\n"
+"<br/>\n"
+"<br/>\n"
+"\n"
+"\n"
+"<t t-out=\"object.get_followup_table_html()\" />\n"
+"\n"
+"    <br/>\n"
+"\n"
+"</div>\n"
+"            "
+msgstr ""
+"\n"
+"<div style=\"font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); \">\n"
+"    \n"
+"    <p>Sehr geehrte ${object.name},</p>\n"
+"    <p>\n"
+"    Trotz mehrfacher Mahnung ist Ihr Konto immer noch nicht beglichen.\n"
+"\n"
+"Sofern die vollständige Zahlung nicht innerhalb der nächsten 7 Tage erfolgt, werden rechtliche Schritte eingeleitet.\n"
+"\n"
+"Fällige Zahlungen werden unten gedruckt.\n"
+"\n"
+"Bei Fragen zu diesem Thema zögern Sie nicht\n"
+"unsere Buchhaltung zu kontaktieren.\n"
+"</p>\n"
+"<br/>\n"
+"Mit freundlichen Grüßen,\n"
+"<br/>\n"
+"<br/>\n"
+"<t t-out=\"user.name\" />\n"
+"<br/>\n"
+"<br/>\n"
+"\n"
+"\n"
+"<t t-out=\"object.get_followup_table_html()\" />\n"
+"\n"
+"    <br/>\n"
+"\n"
+"</div>\n"
+"            "
+
+#. module: custom_accounting_kit
+#: model:mail.template,body_html:custom_accounting_kit.email_template_custom_account_followup_default
+msgid ""
+"\n"
+"<div style=\"font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); \">\n"
+"    \n"
+"    <p>Dear <t t-out=\"object.name\"/>,</p>\n"
+"    <p>\n"
+"    Exception made if there was a mistake of ours, it seems that the following amount stays unpaid. Please, take\n"
+"appropriate measures in order to carry out this payment in the next 8 days.\n"
+"Would your payment have been carried out after this mail was sent, please ignore this message. Do not hesitate to\n"
+"contact our accounting department.\n"
+"    </p>\n"
+"<br/>\n"
+"Best Regards,\n"
+"<br/>\n"
+"<br/>\n"
+"<t t-out=\"user.name\" />\n"
+"<br/>\n"
+"<br/>\n"
+"\n"
+"<t t-out=\"object.get_followup_table_html()\" />\n"
+"\n"
+"<br/>\n"
+"</div>\n"
+"            "
+msgstr ""
+"\n"
+"<div style=\"font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); \">\n"
+"    \n"
+"    <p>Sehr geehrte ${object.name},</p>\n"
+"    <p>\n"
+"   Bei der oben aufgeführten Rechnung konnten wir leider noch keinen Zahlungseingang feststellen. Sicherlich handelt es sich nur um ein Versehen.\n"
+"\n"
+"Die Ausgangsrechnung liegt diesem Schreiben in Kopie bei. Da wir bislang nichts von Ihnen gehört haben, hoffen wir, dass Sie mit unseren Leistungen zufrieden waren. Sollte es diesbezüglich Beanstandungen geben, dann lassen Sie uns dies bitte umgehend wissen. \n"
+"\n"
+"Bei Rückfragen können Sie sich jederzeit an uns wenden. Sollten Sie die Zahlung mittlerweile veranlasst haben, betrachten Sie dieses Schreiben bitte als gegenstandslos.\n"
+"    </p>\n"
+"<br/>\n"
+"Mit freundlichen Grüßen,\n"
+"<br/>\n"
+"<br/>\n"
+"<t t-out=\"user.name\" />\n"
+"<br/>\n"
+"<br/>\n"
+"\n"
+"<t t-out=\"object.get_followup_table_html()\" />\n"
+"\n"
+"<br/>\n"
+"</div>\n"
+"            "
+
+#. module: custom_accounting_kit
+#: model:mail.template,body_html:custom_accounting_kit.email_template_custom_account_followup_level1
+msgid ""
+"\n"
+"<div style=\"font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); \">\n"
+"    \n"
+"    <p>Dear <t t-out=\"object.name\"/>,</p>\n"
+"   <p>\n"
+"    We are disappointed to see that despite sending a reminder, that your account is now seriously overdue.\n"
+"It is essential that immediate payment is made, otherwise we will have to consider placing a stop on your account\n"
+"which means that we will no longer be able to supply your company with (goods/services).\n"
+"Please, take appropriate measures in order to carry out this payment in the next 8 days.\n"
+"If there is a problem with paying invoice that we are not aware of, do not hesitate to contact our accounting\n"
+"department. so that we can resolve the matter quickly.\n"
+"Details of due payments is printed below.\n"
+" </p>\n"
+"<br/>\n"
+"Best Regards,\n"
+"    \n"
+"<br/>\n"
+"<br/>\n"
+"<t t-out=\"user.name\" />\n"
+"    \n"
+"<br/>\n"
+"<br/>\n"
+"\n"
+"<t t-out=\"object.get_followup_table_html()\" />\n"
+"\n"
+"    <br/>\n"
+"\n"
+"</div>\n"
+"            "
+msgstr ""
+"\n"
+"<div style=\"font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); \">\n"
+"    \n"
+"    <p>Sehr geehrte ${object.name},</p>\n"
+"   <p>\n"
+"    mit bedauern müssen wir feststellen, dass wir trotz einer Zahlungserinnerung\n"
+"noch keinen Zahlungseingang von Ihnen feststellen konnten.\n"
+"\n"
+"Bitte überweisen Sie den fälligen Betrag in den nächsten 7 Tagen.\n"
+"\n"
+"Falls es ein Problem mit der Rechnung gibt, zögern Sie nicht, unsere Buchhaltung zu kontaktieren damit wir die Angelegenheit zeitnah klären können.\n"
+"\n"
+"Details zu fälligen Zahlungen sind unten abgedruckt.\n"
+" </p>\n"
+"<br/>\n"
+"Mit freundlichen Grüßen,\n"
+"    \n"
+"<br/>\n"
+"<br/>\n"
+"<t t-out=\"user.name\" />\n"
+"    \n"
+"<br/>\n"
+"<br/>\n"
+"\n"
+"<t t-out=\"object.get_followup_table_html()\" />\n"
+"\n"
+"    <br/>\n"
+"\n"
+"</div>\n"
+"            "
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid " email(s) sent"
+msgstr "Email(s) verschickt"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid " email(s) should have been sent, but "
+msgstr "Email(s) sollten versendet sein, aber"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid " had unknown email address(es)"
+msgstr "hatte unbekannte Mailadresse(n)"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid " letter(s) in report"
+msgstr "Briefe im Bericht"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid " manual action(s) assigned:"
+msgstr "manuelle Aktion zugewiesen:"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid " will be sent"
+msgstr "wird gesendet"
+
+#. module: custom_accounting_kit
+#: model:mail.template,subject:custom_accounting_kit.email_template_custom_account_followup_default
+#: model:mail.template,subject:custom_accounting_kit.email_template_custom_account_followup_level0
+#: model:mail.template,subject:custom_accounting_kit.email_template_custom_account_followup_level1
+#: model:mail.template,subject:custom_accounting_kit.email_template_custom_account_followup_level2
+msgid "{{ user.company_id.name }} Payment Reminder"
+msgstr "{{ user.company_id.name }} Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid "%s partners have no credits and as such the action is cleared"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid ", the latest payment follow-up was:"
+msgstr ", erfolgte als letztes:"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid ": Current Date"
+msgstr "aktuelles Datum"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid ": Partner Name"
+msgstr "Kundenname"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid ": User Name"
+msgstr "Benutzername"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid ": User's Company Name"
+msgstr "Unternehmen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+msgid ""
+"<br/>\n"
+"                                Customer ref:"
+msgstr ""
+"<br/>\n"
+"                                Kundenreferenz:"
+
+#. module: custom_accounting_kit
+#: model:mail.template,name:custom_accounting_kit.email_template_custom_account_followup_level1
+msgid "A bit urging second payment follow-up reminder email"
+msgstr "2. Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_followup_followup
+msgid "Account Follow-up"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "Account Move line"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__manual_action_note
+msgid "Action To Do"
+msgstr "Aufgaben"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "Action to be taken e.g. Give a phonecall, Check if it's paid, ..."
+msgstr ""
+"Was gemacht werden soll, z.B Kunden anrufen, Zahlungseingang prüfen usw."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid "After"
+msgstr "nach"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+#, python-format
+msgid "Amount"
+msgstr "Betrag"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__payment_amount_due
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__payment_amount_due
+msgid "Amount Due"
+msgstr "fälliger Betrag"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__payment_amount_overdue
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__payment_amount_overdue
+msgid "Amount Overdue"
+msgstr "überfälliger Betrag"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid "Amount due"
+msgstr "fälliger Betrag"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid "Anybody"
+msgstr "jeder"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__manual_action_responsible_id
+msgid "Assign a Responsible"
+msgstr "Verantwortlichen zuweisen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.custom_account_followup_stat_by_partner_search
+msgid "Balance > 0"
+msgstr "Saldo > 0"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_account_move_line__result
+msgid "Balance Amount"
+msgstr "Saldobetrag"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid ""
+"Below is the history of the transactions of this\n"
+"                            customer. You can check \"No Follow-up\" in\n"
+"                            order to exclude it from the next follow-up\n"
+"                            actions."
+msgstr ""
+"Unten finden Sie die Transaktionshistorie dieses Kunden.\n"
+"\"Keine Zahlungserinnerung\" auswählen um den Kunden von weiteren Maßnahmen auszunehmen."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__blocked
+msgid "Blocked"
+msgstr "blockiert"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_followup_print__test_print
+msgid ""
+"Check if you want to print follow-ups without changing follow-up level."
+msgstr ""
+"klicken um Zahlungserinnerungen zu drucken ohne die Mahnstufe zu ändern."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.actions.act_window,help:custom_accounting_kit.action_custom_account_followup_definition_form
+msgid "Click to define follow-up levels and their related actions."
+msgstr "Mahnstufen und dazugehörige Aktionen definieren."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "Click to mark the action as done."
+msgstr "klicken um als erledigt zu markieren"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_sending_results
+msgid "Close"
+msgstr "schließen"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_res_config_settings
+msgid "Config Settings"
+msgstr "Konfigurationseinstellungen"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_res_partner
+msgid "Contact"
+msgstr "Kontakt"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.customer_followup_tree
+msgid "Customer Followup"
+msgstr "Kunden Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__payment_note
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__payment_note
+msgid "Customer Payment Promise"
+msgstr "Zahlungsversprechen des Kunden"
+
+#. module: custom_accounting_kit
+#: model:ir.model.constraint,message:custom_accounting_kit.constraint_followup_line_days_uniq
+msgid "Days of the follow-up levels must be different"
+msgstr "Mahnstufen dürfen nicht die gleichen Fälligkeitstage haben."
+
+#. module: custom_accounting_kit
+#: model:mail.template,name:custom_accounting_kit.email_template_custom_account_followup_default
+msgid "Default payment follow-up reminder e-mail"
+msgstr "standardmäßige Zahlungserinnerung E-Mail"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results__description
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+#, python-format
+msgid "Description"
+msgstr "Beschreibung"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.custom_account_followup_s
+msgid "Do Manual Follow-Ups"
+msgstr "manuelle Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_followup_print__partner_lang
+msgid ""
+"Do not change message text, if you want to send email in partner language, "
+"or configure from company"
+msgstr ""
+"Ändern Sie den Nachrichtentext nicht, wenn Sie eine E-Mail in der Sprache "
+"des Kunden senden oder vom Unternehmen konfigurieren möchten"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+msgid ""
+"Document: Customer account statement\n"
+"                                <br/>\n"
+"                                Date:"
+msgstr ""
+"Dokument: Kundenkontoauszug\n"
+"                                <br/>\n"
+"                                Datum:"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_sending_results
+msgid "Download Letters"
+msgstr "Briefe herunterladen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+msgid "Due"
+msgstr "fällig"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid "Due Date"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__delay
+msgid "Due Days"
+msgstr "Fälligkeitstage"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__email_body
+msgid "Email Body"
+msgstr "Email Inhalt"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__email_subject
+msgid "Email Subject"
+msgstr "Email Betreff"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__email_template_id
+msgid "Email Template"
+msgstr "Email Vorlage"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid "Email not sent because of email address of partner not filled in"
+msgstr "Email nicht gesendet, keine Mail-Adresse hinterlegt"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__date_move
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__date_move
+msgid "First move"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:mail.template,name:custom_accounting_kit.email_template_custom_account_followup_level0
+msgid "First polite payment follow-up reminder email"
+msgstr "1. Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__followup_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__followup_id
+msgid "Follow Ups"
+msgstr "Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__followup_id
+msgid "Follow-Up"
+msgstr "Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__name
+msgid "Follow-Up Action"
+msgstr "Aktionen"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_finance_followup
+msgid "Follow-Ups"
+msgstr "Mahnwesen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_followup__followup_line
+#: model:ir.ui.menu,name:custom_accounting_kit.custom_account_followup_main_menu
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.customer_followup_search_view
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_tree
+msgid "Follow-up"
+msgstr "Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_followup_line
+msgid "Follow-up Criteria"
+msgstr "Zahlungserinnerung Kriterien"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_account_move_line__followup_line_id
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Follow-up Level"
+msgstr "Mahnstufe"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_custom_account_followup_definition_form
+#: model:ir.ui.menu,name:custom_accounting_kit.custom_account_followup_menu
+msgid "Follow-up Levels"
+msgstr "Mahnstufen"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.report,name:custom_accounting_kit.action_report_followup
+msgid "Follow-up Report"
+msgstr "Zahlungserinnerung Bericht"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__payment_responsible_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__payment_responsible_id
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.customer_followup_search_view
+msgid "Follow-up Responsible"
+msgstr "Verantwortlicher"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__date
+msgid "Follow-up Sending Date"
+msgstr "Datum der Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_followup_stat
+msgid "Follow-up Statistics"
+msgstr "Zahlungserinnerung Statistik"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_followup_stat_by_partner
+msgid "Follow-up Statistics by Partner"
+msgstr "Zahlungserinnerung Statistik Kunde"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_tree
+msgid "Follow-up Steps"
+msgstr "Zahlungserinnerung Schritte"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid "Follow-up letter of "
+msgstr "Zahlungserinnerung von"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_graph
+msgid "Follow-up lines"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_followup_stat
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_action_followup_stat_follow
+msgid "Follow-ups Analysis"
+msgstr "Zahlungserinnerung Analyse"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Follow-ups Sent"
+msgstr "Zahlungserinnerung gesendet"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.customer_followup_search_view
+msgid "Follow-ups To Do"
+msgstr "unerledigte Zahlungserinnerungen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.customer_followup_search_view
+msgid "Followup Level"
+msgstr "Zahlungserinnerung Stufe"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.actions.act_window,help:custom_accounting_kit.action_custom_account_followup_definition_form
+msgid ""
+"For each step, specify the actions to be taken and delay in\n"
+"                    days. It is\n"
+"                    possible to use print and e-mail templates to send specific\n"
+"                    messages to\n"
+"                    the customer."
+msgstr ""
+"Geben Sie für jeden Schritt die durchzuführenden Maßnahmen und die "
+"Verzögerung in Tagen an. Es ist möglich, Druck- und E-Mail-Vorlagen zu "
+"verwenden, um spezifische Nachrichten an den Kunden zu senden.\n"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_followup_line__sequence
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_partner__latest_followup_sequence
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_users__latest_followup_sequence
+msgid "Gives the sequence order when displaying a list of follow-up lines."
+msgstr ""
+"Gibt die Sequenzreihenfolge an, wenn eine Liste von Folgezeilen angezeigt "
+"wird."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid ""
+"He said the problem was temporary and promised to pay 50% before 15th of "
+"May, balance before 1st of July."
+msgstr ""
+"Kunde sagt das es sich um ein temporäres Problem handelt und versprach 50% "
+"bis zum 15. Mai und Rest bis 1. Juli zu bezahlen."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid ""
+"If not specified by the latest follow-up level, it will send from the "
+"default email template"
+msgstr ""
+"Falls keine Vorgabe der letzten Mahnstufe vorhanden wird die Standard "
+"Mailvorlage genutzt."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Including journal entries marked as a litigation"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__invoice_partner_id
+msgid "Invoice Address"
+msgstr "Rechnungsadresse"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+#, python-format
+msgid "Invoice Date"
+msgstr "Rechnungsdatum"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid "Invoices Reminder"
+msgstr "Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_account_move_line
+msgid "Journal Item"
+msgstr "Buchungszeile"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.account_manual_reconcile_action
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_move_line_reconcile_tree
+msgid "Journal Items to Reconcile"
+msgstr "Abzugleichende Journalposten"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__date_move_last
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__date_move_last
+msgid "Last move"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_account_move_line__followup_date
+msgid "Latest Follow-up"
+msgstr "letzte Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__latest_followup_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__latest_followup_date
+msgid "Latest Follow-up Date"
+msgstr "Datum der letzten Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__latest_followup_level_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__latest_followup_level_id
+msgid "Latest Follow-up Level"
+msgstr "aktuelle Mahnstufe"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__latest_followup_level_id_without_lit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__latest_followup_level_id_without_lit
+msgid "Latest Follow-up Level without litigation"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Latest Follow-up Month"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_partner__latest_followup_date
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_users__latest_followup_date
+msgid "Latest date that the follow-up level of the partner was changed"
+msgstr "Datum der letzten Änderung der Mahnstufe"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__date_followup
+msgid "Latest follow-up"
+msgstr "letzte Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat__date_followup
+msgid "Latest followup"
+msgstr "letzte Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid "Lit."
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Litigation"
+msgstr "Rechtsstreit"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__manual_action
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid "Manual Action"
+msgstr "manuelle Aktion"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_customer_followup
+msgid "Manual Follow-Ups"
+msgstr "manuelle Zahlungserinnerungen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+msgid "Maturity Date"
+msgstr "Fälligkeitstag"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_stat_by_partner__max_followup_id
+msgid "Max Follow Up Level"
+msgstr "Höchststufe Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_customer_my_followup
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_sale_followup
+msgid "My Follow-Ups"
+msgstr "meine Zahlungserinnerungen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.customer_followup_search_view
+msgid "My Follow-ups"
+msgstr "meine Zahlungserinnerungen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_sending_results__needprinting
+msgid "Needs Printing"
+msgstr "muss gedruckt werden"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__payment_next_action
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__payment_next_action
+msgid "Next Action"
+msgstr "nächste Aktion"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__payment_next_action_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__payment_next_action_date
+msgid "Next Action Date"
+msgstr "Datum der nächsten Aktion"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.customer_followup_search_view
+msgid "No Responsible"
+msgstr "kein Verantwortlicher"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.actions.act_window,help:custom_accounting_kit.account_manual_reconcile_action
+msgid "No journal items found."
+msgstr "Keine Journaleinträge gefunden."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_stat_search
+msgid "Not Litigation"
+msgstr "kein Rechtsstreit"
+
+#. module: custom_accounting_kit
+#: model:ir.model.constraint,message:custom_accounting_kit.constraint_followup_followup_company_uniq
+msgid "Only one follow-up per company is allowed"
+msgstr "Nur eine Zahlungserinnerung pro Unternehmen erlaubt"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_partner__payment_responsible_id
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_users__payment_responsible_id
+msgid ""
+"Optionally you can assign a user to this field, which will make him "
+"responsible for the action."
+msgstr "Optional können Sie hier einen verantwortlichen Nutzer festlegen."
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid "Overdue email sent to %s, "
+msgstr "überfällige Mail gesendet an %s, "
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.account_move_line_partner_tree
+msgid "Partner entries"
+msgstr "Kundeneinträge"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.custom_account_followup_stat_by_partner_search
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.custom_account_followup_stat_by_partner_tree
+msgid "Partner to Remind"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.customer_followup_search_view
+msgid "Partners with Overdue Credits"
+msgstr "Kunden mit Ausständen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "Payment Follow-up"
+msgstr "Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_partner__payment_note
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_users__payment_note
+msgid "Payment Note"
+msgstr "Zahlungshinweis"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_followup_print
+msgid "Print Follow-up & Send Mail to Customers"
+msgstr "Zahlungserinnerung drucken & Mail an Kunden schicken"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "Print Overdue Payments"
+msgstr "Drucke Mahnung (PDF)"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "Print overdue payments report independent of follow-up line"
+msgstr "Drucken Sie den Bericht über überfällige Zahlungen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__description
+msgid "Printed Message"
+msgstr "gedruckte Nachrichten"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid "Printed overdue payments report"
+msgstr "gedruckter Bericht überfälliger Zahlungen"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid "Reference"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_report_custom_account_followup_report_followup
+msgid "Report Followup"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "Responsible of credit collection"
+msgstr "Verantwortlicher für das Inkasso"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_followup_sending_results
+msgid "Results from the sending of the different letters and emails"
+msgstr "Ergebnisse aus dem Versand der verschiedenen Briefe und E-Mails"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_filter
+msgid "Search Follow-up"
+msgstr "Suche Zahlungserinnerung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__email_conf
+msgid "Send Email Confirmation"
+msgstr "Sende Email Bestätigung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__partner_lang
+msgid "Send Email in Partner Language"
+msgstr "Sende Email in Sprache des Kunden"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_custom_account_followup_print
+msgid "Send Follow-Ups"
+msgstr "Zahlungserinnerung erstellen"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.custom_account_followup_print_menu
+msgid "Send Letters and Emails"
+msgstr "Zahlungserinnerung erstellen"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/wizard/followup_print.py:0
+#, python-format
+msgid "Send Letters and Emails: Actions Summary"
+msgstr "Sende Briefe und Emails: Aktionsübersicht"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "Send Overdue Email"
+msgstr "Sende Mahnung (Email)"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__send_letter
+msgid "Send a Letter"
+msgstr "Sende Brief"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid "Send a Letter or Email"
+msgstr "Zahlungserinnerung erstellen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_line__send_email
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid "Send an Email"
+msgstr "Sende Mail"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_print
+msgid "Send emails and generate letters"
+msgstr "Zahlungserinnerung erstellen"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_print
+msgid "Send follow-ups"
+msgstr "Zahlungserinnerung erstellen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__summary
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_sending_results
+msgid "Summary of actions"
+msgstr "Zusammenfassung der Aktionen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_followup_print__test_print
+msgid "Test Print"
+msgstr "Testdruck"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "The"
+msgstr "Am"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/report/followup_print.py:0
+#, python-format
+msgid ""
+"The followup plan defined for the current company does not have any followup"
+" action."
+msgstr "Die Mahnstufen für das aktuelle Unternehmen hat noch keine Aktionen."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_partner__latest_followup_level_id
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_users__latest_followup_level_id
+msgid "The maximum follow-up level"
+msgstr "aktuelle Mahnstufe"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_partner__latest_followup_level_id_without_lit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_users__latest_followup_level_id_without_lit
+msgid ""
+"The maximum follow-up level without taking into account the account move "
+"lines with litigation"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_followup_line__delay
+msgid ""
+"The number of days after the due date of the invoice to wait before sending "
+"the reminder. Could be negative if you want to send a polite alert "
+"beforehand."
+msgstr ""
+"Die Anzahl der Tage nach dem Fälligkeitsdatum der Rechnung, die gewartet "
+"werden soll, bevor die Mahnung gesendet wird. Kann negativ sein, wenn Sie "
+"vorher eine höfliche Erinnerung senden möchten."
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid ""
+"The partner does not have any accounting entries to print in the overdue "
+"report for the current company."
+msgstr ""
+"Der Kunde hat für das aktuelle Unternehmen keine Einträge zum drucken."
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid "There is no followup plan defined for the current company."
+msgstr "Es sind keine Mahnstufen für das aktuelle Unternehmen definiert."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_print
+msgid ""
+"This action will send follow-up emails, print the\n"
+"                        letters and\n"
+"                        set the manual actions per customer, according to the\n"
+"                        follow-up levels defined."
+msgstr ""
+"Diese Aktion sendet Zahlungserinnerungen per Mail, druckt Briefe und setzt "
+"die manuellen Aktionen je Kunde entsprechend der eingestellten Stufe der "
+"Zahlungserinnerung."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_followup_print__date
+msgid "This field allow you to select a forecast date to plan your follow-ups"
+msgstr ""
+"In diesem Feld können Sie ein Datum auswählen, um Ihre Zahlungserinnerungen "
+"zu planen"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_partner__payment_next_action
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_users__payment_next_action
+msgid ""
+"This is the next action to be taken.  It will automatically be set when the "
+"partner gets a follow-up level that requires a manual action. "
+msgstr ""
+"Das ist die nächste anstehende Aktion. Wird automatisch gesetzt wenn der "
+"Kunde eine Mahnstufe erreicht die eine manuelle Aktion erfordert."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_partner__payment_next_action_date
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_users__payment_next_action_date
+msgid ""
+"This is when the manual follow-up is needed. The date will be set to the "
+"current date when the partner gets a follow-up level that requires a manual "
+"action. Can be practical to set manually e.g. to see if he keeps his "
+"promises."
+msgstr ""
+"Dies ist, wenn die manuelle Nachverfolgung erforderlich ist. Das Datum wird "
+"auf das aktuelle Datum gesetzt, wenn der Kunde eine Zahlungserinnerung "
+"erhält, die eine manuelle Aktion erfordert. Kann sinnvoll sein, diese "
+"manuell einzustellen, z.B. um zu sehen, ob er seine Versprechen hält."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_form
+msgid ""
+"To remind customers of paying their invoices, you can\n"
+"                        define different actions depending on how severely\n"
+"                        overdue the customer is. These actions are bundled\n"
+"                        into follow-up levels that are triggered when the due\n"
+"                        date of an invoice has passed a certain\n"
+"                        number of days. If there are other overdue invoices for\n"
+"                        the\n"
+"                        same customer, the actions of the most\n"
+"                        overdue invoice will be executed."
+msgstr ""
+"Um einen Kunden an seine offenen Rechnungen zu erinnern können Sie hier "
+"verschiedene Aktionen erstellen. Diese Aktionen sind in verschiedene Stufen "
+"zusammengefasst und werden nach einer bestimmten Anzahl von Tagen ausgelöst."
+" Falls es mehrere überfällige Rechnung des selben Kunden gibt, wird die "
+"Aktion für die älteste ausgeführt."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.account_move_line_partner_tree
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_move_line_reconcile_tree
+msgid "Total credit"
+msgstr "Gesamtbetrag"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.account_move_line_partner_tree
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_move_line_reconcile_tree
+msgid "Total debit"
+msgstr "Gesamtbetrag"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.report_followup
+msgid "Total:"
+msgstr "Gesamt:"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__unreconciled_aml_ids
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__unreconciled_aml_ids
+msgid "Unreconciled Aml"
+msgstr ""
+
+#. module: custom_accounting_kit
+#: model:mail.template,name:custom_accounting_kit.email_template_custom_account_followup_level2
+msgid "Urging payment follow-up reminder email"
+msgstr "Mahnungs-E-Mail zur Nachverfolgung der Zahlung"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_followup_line__send_letter
+msgid "When processing, it will print a letter"
+msgstr "Bei der Verarbeitung wird ein Brief gedruckt"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_followup_line__send_email
+msgid "When processing, it will send an email"
+msgstr "Bei der Verarbeitung wird eine E-Mail gesendet"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_followup_line__manual_action
+msgid ""
+"When processing, it will set the manual action to be taken for that "
+"customer. "
+msgstr ""
+"Bei der Verarbeitung wird die für diesen Kunden durchzuführende manuelle "
+"Maßnahme festgelegt."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_partner__payment_earliest_due_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_users__payment_earliest_due_date
+msgid "Worst Due Date"
+msgstr "spätestes Fälligkeitsdatum"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid ""
+"Write here the introduction in the letter,\n"
+"                            according to the level of the follow-up. You can\n"
+"                            use the following keywords in the text. Don't\n"
+"                            forget to translate in all languages you installed\n"
+"                            using to top right icon."
+msgstr ""
+"Schreiben Sie hier die Einleitung für das Anschreiben entsprechend der Stufe der Zahlungserinnerung. Folgende Variablen können im Text genutzt werden. Vergessen Sie nicht den Text in alle installierten Sprachen zu übersetzen. (Icon oben rechts)\n"
+"\n"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/partner.py:0
+#, python-format
+msgid ""
+"You became responsible to do the next action for the payment follow-up of"
+msgstr "Sie sind für die nächste Aktion im Mahnwesen verantwortlich für"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/followup.py:0
+#, python-format
+msgid ""
+"Your description is invalid, use the right legend or %% if you want to use "
+"the percent character."
+msgstr ""
+"Die Beschreibung ist ungültig, nutzen Sie die Legende oder %% wenn Sie "
+"Prozentwerte nutzen wollen."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid "days overdue, do the following actions:"
+msgstr "Zahlungsverzug, führe folgende Aktionen aus:"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_followup_line_form
+msgid "e.g. Call the customer, check if it's paid, ..."
+msgstr "z.B. Rufen Sie den Kunden an, prüfen Sie, ob es bezahlt ist, ..."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_custom_account_followup_print
+msgid "or"
+msgstr "oder"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_inherit_followup_form
+msgid "⇾ Mark as Done"
+msgstr "⇾ als erledigt markieren"

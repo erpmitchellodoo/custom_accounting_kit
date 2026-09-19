@@ -1,0 +1,868 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Accounting Kit 19.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-12 03:15+0000\n"
+"PO-Revision-Date: 2022-06-11 22:15-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.1\n"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/account_budget.py:0
+#, python-format
+msgid ""
+"\"End Date\" of the budget line should be included in the Period of the "
+"budget"
+msgstr ""
+"La \"fecha de finalización\" de la línea presupuestaria debe incluirse en el"
+" período del presupuesto"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/account_budget.py:0
+#, python-format
+msgid ""
+"\"Start Date\" of the budget line should be included in the Period of the "
+"budget"
+msgstr ""
+"La \"fecha de inicio\" de la línea presupuestaria debe incluirse en el "
+"período del presupuesto"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_kanban
+msgid "<i class=\"fa fa-clock-o\" role=\"img\" aria-label=\"Period\" title=\"Period\"/>"
+msgstr "<i class=\"fa fa-clock-o\" role=\"img\" aria-label=\"Periodo\" title=\"Periodo\"/>"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__account_ids
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_budget_post_form
+msgid "Accounts"
+msgstr "Cuentas"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__percentage
+msgid "Achievement"
+msgstr "Logro"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_needaction
+msgid "Action Needed"
+msgstr "Acción requerida"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget_lines__practical_amount
+msgid "Amount really earned/spent."
+msgstr "Importe realmente ingresado/gastado"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget_lines__theoritical_amount
+msgid "Amount you are supposed to have earned/spent at this date."
+msgstr "Importe supuestamente ingresado/gastado a esta fecha"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget_lines__planned_amount
+msgid ""
+"Amount you plan to earn/spend. Record a positive amount if it is a revenue "
+"and a negative amount if it is a cost."
+msgstr ""
+"Cantidad que planea ganar/gastar. Registre una cantidad positiva si es un "
+"ingreso y una cantidad negativa si es un costo."
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_account_analytic_account
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__analytic_account_id
+msgid "Analytic Account"
+msgstr "Cuenta analítica"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__analytic_plan_id
+msgid "Analytic Group"
+msgstr "Grupo analítico"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+msgid "Approve"
+msgstr "Aprobado"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_attachment_count
+msgid "Attachment Count"
+msgstr "Conteo de archivos adjuntos"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_crossovered_budget
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__crossovered_budget_id
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_tree
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_search
+msgid "Budget"
+msgstr "Presupuestos"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.act_account_analytic_account_cb_lines
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_analytic_account_form_inherit_budget
+msgid "Budget Items"
+msgstr "Elementos de presupuesto"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_crossovered_budget_lines
+msgid "Budget Line"
+msgstr "Línea de presupuesto"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_account_analytic_account__crossovered_budget_line
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__crossovered_budget_line
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_graph
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_pivot
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_search
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_tree
+msgid "Budget Lines"
+msgstr "Líneas de presupuesto"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__name
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+msgid "Budget Name"
+msgstr "Nombre del presupuesto"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__crossovered_budget_state
+msgid "Budget State"
+msgstr "Estado del presupuesto"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_budget_post
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__general_budget_id
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_budget_post_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_budget_post_search
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_budget_post_tree
+msgid "Budgetary Position"
+msgstr "Posición presupuestaria"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.open_budget_post_form
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_budget_post_form
+msgid "Budgetary Positions"
+msgstr "Posiciones presupuestarias"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.act_crossovered_budget_view
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_act_crossovered_budget_view
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_search
+msgid "Budgets"
+msgstr "Presupuestos"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.act_crossovered_budget_lines_view
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_act_crossovered_budget_lines_view
+msgid "Budgets Analysis"
+msgstr "Análisis de presupuestos"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+msgid "Cancel Budget"
+msgstr "Cancelar presupuesto"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__crossovered_budget__state__cancel
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.actions.act_window,help:custom_accounting_kit.act_crossovered_budget_view
+msgid "Click to create a new budget."
+msgstr "Clic aquí para crear un nuevo presupuesto"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__company_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__company_id
+msgid "Company"
+msgstr "Compañia"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget_lines__percentage
+msgid ""
+"Comparison between practical and theoretical amount. This measure tells you "
+"if you are below or over budget."
+msgstr ""
+"Comparación entre cantidad práctica y teórica. Esta medida le dice si está "
+"por debajo o por encima del presupuesto."
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_template_form
+msgid "Confirm"
+msgstr "Confirmar"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__crossovered_budget__state__confirm
+msgid "Confirmed"
+msgstr "Confirmado"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__create_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__create_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__create_date
+msgid "Created on"
+msgstr "Creado el"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__currency_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__currency_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__currency_id
+msgid "Currency"
+msgstr "Moneda"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__display_name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_recurring_template__state__done
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__crossovered_budget__state__done
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__recurring_payment__state__done
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__recurring_payment_line__state__done
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_payment_form
+msgid "Done"
+msgstr "Hecho"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_recurring_template__state__draft
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__crossovered_budget__state__draft
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__recurring_payment__state__draft
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__recurring_payment_line__state__draft
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_search
+msgid "Draft"
+msgstr "Borrador"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_search
+msgid "Draft Budgets"
+msgstr "Presupuestos borrador"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__date_to
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__date_end
+msgid "End Date"
+msgstr "Fecha final"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+msgid "Entries..."
+msgstr "Asientos"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_follower_ids
+msgid "Followers"
+msgstr "Seguidores"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_partner_ids
+msgid "Followers (Partners)"
+msgstr "Seguidores (Empresas)"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_payment_method_search
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_search
+msgid "Group By"
+msgstr "Agrupar por"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__has_message
+msgid "Has Message"
+msgstr "Tiene mensajes"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__id
+msgid "ID"
+msgstr "ID"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget__message_needaction
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget__message_unread
+msgid "If checked, new messages require your attention."
+msgstr "Si está marcado hay nuevos mensajes que requieren su atención."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget__message_has_error
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr "Si está marcado hay nuevos mensajes que requieren su atención."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__is_above_budget
+msgid "Is Above Budget"
+msgstr "Es superior al presupuesto"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_is_follower
+msgid "Is Follower"
+msgstr "Es un seguidor"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment____last_update
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line____last_update
+msgid "Last Modified on"
+msgstr "Última modificación en"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__write_uid
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__write_date
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__write_date
+msgid "Last Updated on"
+msgstr "Última actualización el"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_main_attachment_id
+msgid "Main Attachment"
+msgstr "Adjuntos principales"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_has_error
+msgid "Message Delivery error"
+msgstr "Error de Envío de Mensaje"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_ids
+msgid "Messages"
+msgstr "Mensajes"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_budget_post__name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__name
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_search
+msgid "Not Cancelled"
+msgstr "No cancelado"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_needaction_counter
+msgid "Number of Actions"
+msgstr "Número de acciones"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_has_error_counter
+msgid "Number of errors"
+msgstr "Numero de errores"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget__message_needaction_counter
+msgid "Number of messages which requires an action"
+msgstr "Número de mensajes que requieren una acción"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "Número de mensajes con error de envío"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget__message_unread_counter
+msgid "Number of unread messages"
+msgstr "Número de mensajes no leídos"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__paid_date
+msgid "Paid Date"
+msgstr "Fecha de pago"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+msgid "Period"
+msgstr "Periodo"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__planned_amount
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+msgid "Planned Amount"
+msgstr "Importe previsto"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_graph
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_pivot
+msgid "Planned amount"
+msgstr "Importe previsto"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__practical_amount
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_analytic_account_form_inherit_budget
+msgid "Practical Amount"
+msgstr "Importe real"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_graph
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_pivot
+msgid "Practical amount"
+msgstr "Importe real"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+msgid "Reset to Draft"
+msgstr "Cambiar a borrador"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__user_id
+msgid "Responsible"
+msgstr "Responsable"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr "Error de entrega del SMS"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__date_from
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__date_begin
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__state
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__state
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__state
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__state
+msgid "Status"
+msgstr "Estatus"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/account_budget.py:0
+#, python-format
+msgid "The budget must have at least one account."
+msgstr "El presupuesto debe tener al menos una cuenta."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget_lines__theoritical_amount
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.crossovered_budget_view_form
+msgid "Theoretical Amount"
+msgstr "Importe teórico"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_analytic_account_form_inherit_budget
+msgid "Theoritical Amount"
+msgstr "Importe teórico"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_graph
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_line_pivot
+msgid "Theoritical amount"
+msgstr "Importe teórico"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_search
+msgid "To Approve"
+msgstr "Para aprobar"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_crossovered_budget_search
+msgid "To Approve Budgets"
+msgstr "Presupuestos para aprobar"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_unread
+msgid "Unread Messages"
+msgstr "Mensajes sin leer"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__message_unread_counter
+msgid "Unread Messages Counter"
+msgstr "Contador de mensajes sin leer"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.actions.act_window,help:custom_accounting_kit.act_crossovered_budget_view
+msgid "Use budgets to compare actual with expected revenues and costs"
+msgstr ""
+"Use los presupuestos para comparar los ingresos y costos reales con los "
+"esperados."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__crossovered_budget__state__validate
+msgid "Validated"
+msgstr "Validado"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_crossovered_budget__website_message_ids
+msgid "Website Messages"
+msgstr "Mensajes del sitio web"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_custom_crossovered_budget__website_message_ids
+msgid "Website communication history"
+msgstr "Historial de comunicaciones del sitio web"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/account_budget.py:0
+#, python-format
+msgid ""
+"You have to enter at least a budgetary position or analytic account on a "
+"budget line."
+msgstr ""
+"Debe ingresar al menos una posición presupuestaria o una cuenta analítica en"
+" una línea de presupuesto."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__amount
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__amount
+msgid "Amount"
+msgstr "Monto"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/recurring_payment.py:0
+#, python-format
+msgid "Amount Must Be Non-Zero Positive Number"
+msgstr "El monto debe ser un número positivo distinto de cero"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/recurring_payment.py:0
+#, python-format
+msgid "Cannot delete done records !"
+msgstr "¡No se pueden eliminar los registros realizados!"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_payment_form
+msgid "Create Payment"
+msgstr "Crear pago"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__date
+msgid "Date"
+msgstr "Fecha"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_recurring_template__recurring_period__days
+msgid "Days"
+msgstr "Días"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__description
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__description
+msgid "Description"
+msgstr "Descripción"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_payment_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_template_form
+msgid "Description..."
+msgstr "Descripción..."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__journal_state
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__journal_state
+msgid "Generate Journal As"
+msgstr "Generar diario como"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.server,name:custom_accounting_kit.action_generate_recurring_payment_ir_actions_server
+#: model:ir.cron,cron_name:custom_accounting_kit.action_generate_recurring_payment
+#: model:ir.cron,name:custom_accounting_kit.action_generate_recurring_payment
+msgid "Generate Recurring Payments"
+msgstr "Generar pagos recurrentes"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__journal_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__journal_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__journal_id
+msgid "Journal"
+msgstr "Diario"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_recurring_template__recurring_period__months
+msgid "Months"
+msgstr "Meses"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/recurring_payment.py:0
+#, python-format
+msgid "New"
+msgstr "Nuevo"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__partner_id
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__partner_id
+msgid "Partner"
+msgstr "Cliente"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__payment_id
+msgid "Payment"
+msgstr "Pago"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__payment_type
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_payment_method_search
+msgid "Payment Type"
+msgstr "Tipo de Pago"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_recurring_template__journal_state__posted
+msgid "Posted"
+msgstr "Publicado"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__recurring_payment__payment_type__inbound
+msgid "Receive Money"
+msgstr "Recibir dinero"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_payment_form
+msgid "Recurring Entries"
+msgstr "Entradas recurrentes"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__recurring_interval
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__recurring_interval
+msgid "Recurring Interval"
+msgstr "Intervalo recurrente"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__line_ids
+msgid "Recurring Lines"
+msgstr "Líneas recurrentes"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_recurring_payment
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment_line__recurring_payment_id
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_recurring_payment
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_recurring_payments
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_payment_form
+msgid "Recurring Payment"
+msgstr "Pago recurrente"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_recurring_payment_line
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_payment_form
+msgid "Recurring Payment Line"
+msgstr "Línea de pago recurrente"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_custom_recurring_payment
+msgid "Recurring Payment("
+msgstr "Pago recurrente("
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_recurring_payment_tree
+msgid "Recurring Payments"
+msgstr "Pagos recurrentes"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_account_recurring_template__recurring_period
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__recurring_period
+msgid "Recurring Period"
+msgstr "Período recurrente"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_recurring_template
+#: model:ir.model,name:custom_accounting_kit.model_custom_account_recurring_template
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_custom_recurring_payment__template_id
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_recurring_template
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_recurring_template_tree
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_template_form
+msgid "Recurring Template"
+msgstr "Plantilla recurrente"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__recurring_payment__payment_type__outbound
+msgid "Send Money"
+msgstr "Enviar dinero"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_payment_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_recurring_template_form
+msgid "Set To Draft"
+msgstr "Establecer a borrador"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_recurring_template__journal_state__draft
+msgid "Un Posted"
+msgstr "Sin publicar"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_recurring_template__recurring_period__weeks
+msgid "Weeks"
+msgstr "Semanas"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields.selection,name:custom_accounting_kit.selection__account_recurring_template__recurring_period__years
+msgid "Years"
+msgstr "Años"
+
+#. module: custom_accounting_kit
+#: code:addons/custom_accounting_kit/models/recurring_payment.py:0
+#, python-format
+msgid "You cannot Set to Draft as one of the line is already in done state"
+msgstr ""
+"No puede establecer como borrador porque una de las líneas ya está en estado"
+" hecho"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_group_action
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_group
+msgid "Account Groups"
+msgstr "Grupos de cuentas"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_account_tag
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_tag
+msgid "Account Tags"
+msgstr "Etiquetas de cuenta"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.account_type_menu
+msgid "Account Types"
+msgstr "Tipos de cuentas"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.res_config_settings_view_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_partner_property_form
+msgid "Accounting"
+msgstr "Contabilidad"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.res_config_settings_view_form
+msgid "Anglo-Saxon Accounting"
+msgstr "Contabilidad anglo-sajona"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_accounting_statement_bank
+msgid "Bank Statements"
+msgstr "Extractos bancarios"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_accounting_bank_and_cash
+msgid "Bank and Cash"
+msgstr "Banco y efectivo"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_accounting_statement_cash
+msgid "Cash Registers"
+msgstr "Registros de caja"
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_coa_template
+msgid "Chart of Accounts Templates"
+msgstr "Plantilla de Plan Contable"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_res_config_settings
+msgid "Config Settings"
+msgstr "Opciones de configuración"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_fiscal_position_template
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_fiscal_position_template
+msgid "Fiscal Position Templates"
+msgstr "Plantillas de posición fiscal"
+
+#. module: custom_accounting_kit
+#: model:ir.model,name:custom_accounting_kit.model_account_move
+msgid "Journal Entry"
+msgstr "Asiento de diario"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_payment_method_search
+msgid "Payment Method"
+msgstr "Método de pago"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.act_window,name:custom_accounting_kit.action_account_payment_method
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_payment_method
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_payment_method_form
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_payment_method_search
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.view_account_payment_method_tree
+msgid "Payment Methods"
+msgstr "Métodos de pago"
+
+#. module: custom_accounting_kit
+#: model:ir.actions.server,name:custom_accounting_kit.action_account_reconciliation
+msgid "Reconcile"
+msgstr "Conciliación"
+
+#. module: custom_accounting_kit
+#: model_terms:ir.ui.view,arch_db:custom_accounting_kit.res_config_settings_view_form
+msgid ""
+"Record the cost of a good as an expense when this good is\n"
+"                                invoiced to a final customer (instead of recording the cost as soon\n"
+"                                as the product is received in stock)."
+msgstr ""
+"Registrar el costo de un bien como gasto cuando este bien se\n"
+"                                facturado a un cliente final (en lugar de registrar el costo tan pronto\n"
+"                                como el producto se recibe en stock)."
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,help:custom_accounting_kit.field_res_config_settings__anglo_saxon_accounting
+msgid ""
+"Record the cost of a good as an expense when this good is invoiced to a "
+"final customer."
+msgstr ""
+"Registre el costo de un bien como un gasto cuando este bien se facture a un "
+"cliente final."
+
+#. module: custom_accounting_kit
+#: model:ir.ui.menu,name:custom_accounting_kit.menu_account_templates
+msgid "Templates"
+msgstr "Plantillas"
+
+#. module: custom_accounting_kit
+#: model:ir.model.fields,field_description:custom_accounting_kit.field_res_config_settings__anglo_saxon_accounting
+msgid "Use anglo-saxon accounting"
+msgstr "Utilizar contabilidad anglo-sajona"

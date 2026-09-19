@@ -1,0 +1,1030 @@
+[
+  {
+    "source": "accounting_pdf_reports/__init__.py",
+    "destination": "__init__.py (imports rebuilt; obsolete table-dropping hook removed)"
+  },
+  {
+    "source": "accounting_pdf_reports/__manifest__.py",
+    "destination": "__manifest__.py"
+  },
+  {
+    "source": "accounting_pdf_reports/data/account_account_type.xml",
+    "destination": "data/account_account_type.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/ar.po",
+    "destination": "i18n/ar.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/ar_001.po",
+    "destination": "i18n/ar_001.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/ar_SY.po",
+    "destination": "i18n/ar_SY.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/de.po",
+    "destination": "i18n/de.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/es.po",
+    "destination": "i18n/es.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/es_AR.po",
+    "destination": "i18n/es_AR.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/fr.po",
+    "destination": "i18n/fr.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/tr.po",
+    "destination": "i18n/tr.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/uk.po",
+    "destination": "i18n/uk.po"
+  },
+  {
+    "source": "accounting_pdf_reports/i18n/zh_TW.po",
+    "destination": "i18n/zh_TW.po"
+  },
+  {
+    "source": "accounting_pdf_reports/models/__init__.py",
+    "destination": "models/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "accounting_pdf_reports/models/account_account_type.py",
+    "destination": "models/account_account_type.py"
+  },
+  {
+    "source": "accounting_pdf_reports/models/account_financial_report.py",
+    "destination": "models/account_financial_report.py"
+  },
+  {
+    "source": "accounting_pdf_reports/models/account_move_line.py",
+    "destination": "models/account_move_line.py"
+  },
+  {
+    "source": "accounting_pdf_reports/report/__init__.py",
+    "destination": "report/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report.xml",
+    "destination": "report/report.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_aged_partner.py",
+    "destination": "report/report_aged_partner.py"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_aged_partner.xml",
+    "destination": "report/report_aged_partner.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_financial.py",
+    "destination": "report/report_financial.py"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_financial.xml",
+    "destination": "report/report_financial.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_general_ledger.py",
+    "destination": "report/report_general_ledger.py"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_general_ledger.xml",
+    "destination": "report/report_general_ledger.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_journal.py",
+    "destination": "report/report_journal.py"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_journal_audit.xml",
+    "destination": "report/report_journal_audit.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_journal_entries.xml",
+    "destination": "report/report_journal_entries.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_partner_ledger.py",
+    "destination": "report/report_partner_ledger.py"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_partner_ledger.xml",
+    "destination": "report/report_partner_ledger.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_tax.py",
+    "destination": "report/report_tax.py"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_tax.xml",
+    "destination": "report/report_tax.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_trial_balance.py",
+    "destination": "report/report_trial_balance.py"
+  },
+  {
+    "source": "accounting_pdf_reports/report/report_trial_balance.xml",
+    "destination": "report/report_trial_balance.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/security/ir.model.access.csv",
+    "destination": "security/ir.model.access.csv"
+  },
+  {
+    "source": "accounting_pdf_reports/static/description/icon.png",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "accounting_pdf_reports/static/description/icon.svg",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "accounting_pdf_reports/static/description/index.html",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "accounting_pdf_reports/views/financial_report.xml",
+    "destination": "views/financial_report.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/views/ledger_menu.xml",
+    "destination": "views/ledger_menu.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/views/menu.xml",
+    "destination": "views/menu.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/__init__.py",
+    "destination": "wizard/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_general_ledger.py",
+    "destination": "wizard/account_general_ledger.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_journal_audit.py",
+    "destination": "wizard/account_journal_audit.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_partner_ledger.py",
+    "destination": "wizard/account_partner_ledger.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_report.py",
+    "destination": "wizard/account_report.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_report_common.py",
+    "destination": "wizard/account_report_common.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_report_common_account.py",
+    "destination": "wizard/account_report_common_account.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_report_common_journal.py",
+    "destination": "wizard/account_report_common_journal.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_report_common_partner.py",
+    "destination": "wizard/account_report_common_partner.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_report_common_view.xml",
+    "destination": "wizard/account_report_common_view.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_report_print_journal.py",
+    "destination": "wizard/account_journal_audit.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_tax_report.py",
+    "destination": "wizard/account_tax_report.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/account_trial_balance.py",
+    "destination": "wizard/account_trial_balance.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/aged_partner.py",
+    "destination": "wizard/aged_partner.py"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/aged_partner.xml",
+    "destination": "wizard/aged_partner.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/balance_sheet.xml",
+    "destination": "wizard/balance_sheet.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/general_ledger.xml",
+    "destination": "wizard/general_ledger.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/journal_audit.xml",
+    "destination": "wizard/journal_audit.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/partner_ledger.xml",
+    "destination": "wizard/partner_ledger.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/profit_and_loss.xml",
+    "destination": "wizard/profit_and_loss.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/tax_report.xml",
+    "destination": "wizard/tax_report.xml"
+  },
+  {
+    "source": "accounting_pdf_reports/wizard/trial_balance.xml",
+    "destination": "wizard/trial_balance.xml"
+  },
+  {
+    "source": "custom_account_asset/__init__.py",
+    "destination": "__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_asset/__manifest__.py",
+    "destination": "__manifest__.py"
+  },
+  {
+    "source": "custom_account_asset/data/account_asset_data.xml",
+    "destination": "data/account_asset_data.xml"
+  },
+  {
+    "source": "custom_account_asset/i18n/ar_001.po",
+    "destination": "i18n/ar_001.po"
+  },
+  {
+    "source": "custom_account_asset/i18n/ar_SY.po",
+    "destination": "i18n/ar_SY.po"
+  },
+  {
+    "source": "custom_account_asset/i18n/es_AR.po",
+    "destination": "i18n/es_AR.po"
+  },
+  {
+    "source": "custom_account_asset/i18n/fr.po",
+    "destination": "i18n/fr.po"
+  },
+  {
+    "source": "custom_account_asset/i18n/tr.po",
+    "destination": "i18n/tr.po"
+  },
+  {
+    "source": "custom_account_asset/i18n/uk.po",
+    "destination": "i18n/uk.po"
+  },
+  {
+    "source": "custom_account_asset/i18n/zh_TW.po",
+    "destination": "i18n/zh_TW.po"
+  },
+  {
+    "source": "custom_account_asset/models/__init__.py",
+    "destination": "models/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_asset/models/account.py",
+    "destination": "models/account_move.py"
+  },
+  {
+    "source": "custom_account_asset/models/account_asset.py",
+    "destination": "models/account_asset.py"
+  },
+  {
+    "source": "custom_account_asset/models/account_move.py",
+    "destination": "models/account_move.py; models/account_move_line.py"
+  },
+  {
+    "source": "custom_account_asset/models/product.py",
+    "destination": "models/product.py"
+  },
+  {
+    "source": "custom_account_asset/report/__init__.py",
+    "destination": "report/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_asset/report/account_asset_report.py",
+    "destination": "report/account_asset_report.py"
+  },
+  {
+    "source": "custom_account_asset/report/account_asset_report_views.xml",
+    "destination": "report/account_asset_report_views.xml"
+  },
+  {
+    "source": "custom_account_asset/security/account_asset_security.xml",
+    "destination": "security/security.xml"
+  },
+  {
+    "source": "custom_account_asset/security/ir.model.access.csv",
+    "destination": "security/ir.model.access.csv"
+  },
+  {
+    "source": "custom_account_asset/static/description/icon.png",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_asset/static/description/icon.svg",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_asset/static/description/index.html",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_asset/static/src/scss/account_asset.scss",
+    "destination": "static/src/scss/account_asset.scss"
+  },
+  {
+    "source": "custom_account_asset/views/account_asset_templates.xml",
+    "destination": "__manifest__.py (assets)"
+  },
+  {
+    "source": "custom_account_asset/views/account_asset_views.xml",
+    "destination": "views/account_asset_views.xml"
+  },
+  {
+    "source": "custom_account_asset/views/account_move_views.xml",
+    "destination": "views/account_move_views.xml"
+  },
+  {
+    "source": "custom_account_asset/views/asset_category_views.xml",
+    "destination": "views/asset_category_views.xml"
+  },
+  {
+    "source": "custom_account_asset/views/product_views.xml",
+    "destination": "views/product_views.xml"
+  },
+  {
+    "source": "custom_account_asset/wizard/__init__.py",
+    "destination": "wizard/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_asset/wizard/asset_depreciation_confirmation_wizard.py",
+    "destination": "wizard/asset_depreciation_confirmation_wizard.py"
+  },
+  {
+    "source": "custom_account_asset/wizard/asset_depreciation_confirmation_wizard_views.xml",
+    "destination": "wizard/asset_depreciation_confirmation_wizard_views.xml"
+  },
+  {
+    "source": "custom_account_asset/wizard/asset_modify.py",
+    "destination": "wizard/asset_modify.py"
+  },
+  {
+    "source": "custom_account_asset/wizard/asset_modify_views.xml",
+    "destination": "wizard/asset_modify_views.xml"
+  },
+  {
+    "source": "custom_account_budget/__init__.py",
+    "destination": "__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_budget/__manifest__.py",
+    "destination": "__manifest__.py"
+  },
+  {
+    "source": "custom_account_budget/data/account_budget_demo.xml",
+    "destination": "data/account_budget_demo.xml"
+  },
+  {
+    "source": "custom_account_budget/i18n/ar_001.po",
+    "destination": "i18n/ar_001.po"
+  },
+  {
+    "source": "custom_account_budget/i18n/ar_SY.po",
+    "destination": "i18n/ar_SY.po"
+  },
+  {
+    "source": "custom_account_budget/i18n/es_AR.po",
+    "destination": "i18n/es_AR.po"
+  },
+  {
+    "source": "custom_account_budget/i18n/es_MX.po",
+    "destination": "i18n/es_MX.po"
+  },
+  {
+    "source": "custom_account_budget/i18n/fr.po",
+    "destination": "i18n/fr.po"
+  },
+  {
+    "source": "custom_account_budget/i18n/tr.po",
+    "destination": "i18n/tr.po"
+  },
+  {
+    "source": "custom_account_budget/i18n/uk.po",
+    "destination": "i18n/uk.po"
+  },
+  {
+    "source": "custom_account_budget/i18n/zh.TW.po",
+    "destination": "i18n/zh.TW.po"
+  },
+  {
+    "source": "custom_account_budget/models/__init__.py",
+    "destination": "models/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_budget/models/account_analytic_account.py",
+    "destination": "models/account_analytic_account.py"
+  },
+  {
+    "source": "custom_account_budget/models/account_budget.py",
+    "destination": "models/account_budget.py"
+  },
+  {
+    "source": "custom_account_budget/security/ir.model.access.csv",
+    "destination": "security/ir.model.access.csv"
+  },
+  {
+    "source": "custom_account_budget/security/security.xml",
+    "destination": "security/security.xml"
+  },
+  {
+    "source": "custom_account_budget/static/description/icon.png",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_budget/static/description/icon.svg",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_budget/static/description/index.html",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_budget/views/account_analytic_account_views.xml",
+    "destination": "views/account_analytic_account_views.xml"
+  },
+  {
+    "source": "custom_account_budget/views/account_budget_views.xml",
+    "destination": "views/account_budget_views.xml"
+  },
+  {
+    "source": "custom_account_budget/views/res_config_settings_views.xml",
+    "destination": "views/res_config_settings_views.xml"
+  },
+  {
+    "source": "custom_fiscal_year/__init__.py",
+    "destination": "__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_fiscal_year/__manifest__.py",
+    "destination": "__manifest__.py"
+  },
+  {
+    "source": "custom_fiscal_year/i18n/ar_001.po",
+    "destination": "i18n/ar_001.po"
+  },
+  {
+    "source": "custom_fiscal_year/i18n/ar_SY.po",
+    "destination": "i18n/ar_SY.po"
+  },
+  {
+    "source": "custom_fiscal_year/i18n/es_AR.po",
+    "destination": "i18n/es_AR.po"
+  },
+  {
+    "source": "custom_fiscal_year/i18n/fr.po",
+    "destination": "i18n/fr.po"
+  },
+  {
+    "source": "custom_fiscal_year/i18n/tr.po",
+    "destination": "i18n/tr.po"
+  },
+  {
+    "source": "custom_fiscal_year/i18n/zh_TW.po",
+    "destination": "i18n/zh_TW.po"
+  },
+  {
+    "source": "custom_fiscal_year/models/__init__.py",
+    "destination": "models/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_fiscal_year/models/account_fiscal_year.py",
+    "destination": "models/account_fiscal_year.py"
+  },
+  {
+    "source": "custom_fiscal_year/models/account_settings.py",
+    "destination": "models/res_config_settings.py"
+  },
+  {
+    "source": "custom_fiscal_year/models/res_company.py",
+    "destination": "models/res_company.py"
+  },
+  {
+    "source": "custom_fiscal_year/security/ir.model.access.csv",
+    "destination": "security/ir.model.access.csv"
+  },
+  {
+    "source": "custom_fiscal_year/security/security.xml",
+    "destination": "security/security.xml"
+  },
+  {
+    "source": "custom_fiscal_year/static/description/icon.png",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_fiscal_year/static/description/icon.svg",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_fiscal_year/static/description/index.html",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_fiscal_year/views/fiscal_year.xml",
+    "destination": "views/fiscal_year.xml"
+  },
+  {
+    "source": "custom_fiscal_year/views/settings.xml",
+    "destination": "views/res_config_settings_views.xml"
+  },
+  {
+    "source": "custom_fiscal_year/wizard/__init__.py",
+    "destination": "wizard/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_fiscal_year/wizard/change_lock_date.py",
+    "destination": "wizard/change_lock_date.py"
+  },
+  {
+    "source": "custom_fiscal_year/wizard/change_lock_date.xml",
+    "destination": "wizard/change_lock_date.xml"
+  },
+  {
+    "source": "custom_recurring_payments/__init__.py",
+    "destination": "__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_recurring_payments/__manifest__.py",
+    "destination": "__manifest__.py"
+  },
+  {
+    "source": "custom_recurring_payments/data/recurring_cron.xml",
+    "destination": "data/recurring_cron.xml"
+  },
+  {
+    "source": "custom_recurring_payments/data/sequence.xml",
+    "destination": "data/sequence.xml"
+  },
+  {
+    "source": "custom_recurring_payments/i18n/ar_001.po",
+    "destination": "i18n/ar_001.po"
+  },
+  {
+    "source": "custom_recurring_payments/i18n/ar_SY.po",
+    "destination": "i18n/ar_SY.po"
+  },
+  {
+    "source": "custom_recurring_payments/i18n/es_AR.po",
+    "destination": "i18n/es_AR.po"
+  },
+  {
+    "source": "custom_recurring_payments/i18n/es_MX.po",
+    "destination": "i18n/es_MX.po"
+  },
+  {
+    "source": "custom_recurring_payments/i18n/tr.po",
+    "destination": "i18n/tr.po"
+  },
+  {
+    "source": "custom_recurring_payments/i18n/uk.po",
+    "destination": "i18n/uk.po"
+  },
+  {
+    "source": "custom_recurring_payments/i18n/zh_TW.po",
+    "destination": "i18n/zh_TW.po"
+  },
+  {
+    "source": "custom_recurring_payments/models/__init__.py",
+    "destination": "models/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_recurring_payments/models/recurring_payment.py",
+    "destination": "models/recurring_payment.py"
+  },
+  {
+    "source": "custom_recurring_payments/models/recurring_template.py",
+    "destination": "models/recurring_template.py"
+  },
+  {
+    "source": "custom_recurring_payments/security/ir.model.access.csv",
+    "destination": "security/ir.model.access.csv"
+  },
+  {
+    "source": "custom_recurring_payments/static/description/icon.png",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_recurring_payments/static/description/icon.svg",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_recurring_payments/static/description/index.html",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_recurring_payments/views/recurring_payment_view.xml",
+    "destination": "views/recurring_payment_view.xml"
+  },
+  {
+    "source": "custom_recurring_payments/views/recurring_template_view.xml",
+    "destination": "views/recurring_template_view.xml"
+  },
+  {
+    "source": "custom_account_daily_reports/__init__.py",
+    "destination": "__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_daily_reports/__manifest__.py",
+    "destination": "__manifest__.py"
+  },
+  {
+    "source": "custom_account_daily_reports/i18n/ar_001.po",
+    "destination": "i18n/ar_001.po"
+  },
+  {
+    "source": "custom_account_daily_reports/i18n/ar_SY.po",
+    "destination": "i18n/ar_SY.po"
+  },
+  {
+    "source": "custom_account_daily_reports/i18n/es_AR.po",
+    "destination": "i18n/es_AR.po"
+  },
+  {
+    "source": "custom_account_daily_reports/i18n/fr.po",
+    "destination": "i18n/fr.po"
+  },
+  {
+    "source": "custom_account_daily_reports/i18n/tr.po",
+    "destination": "i18n/tr.po"
+  },
+  {
+    "source": "custom_account_daily_reports/i18n/uk.po",
+    "destination": "i18n/uk.po"
+  },
+  {
+    "source": "custom_account_daily_reports/i18n/zh_TW.po",
+    "destination": "i18n/zh_TW.po"
+  },
+  {
+    "source": "custom_account_daily_reports/report/__init__.py",
+    "destination": "report/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_daily_reports/report/report_bankbook.py",
+    "destination": "report/report_bankbook.py"
+  },
+  {
+    "source": "custom_account_daily_reports/report/report_bankbook.xml",
+    "destination": "report/report_bankbook.xml"
+  },
+  {
+    "source": "custom_account_daily_reports/report/report_cashbook.py",
+    "destination": "report/report_cashbook.py"
+  },
+  {
+    "source": "custom_account_daily_reports/report/report_cashbook.xml",
+    "destination": "report/report_cashbook.xml"
+  },
+  {
+    "source": "custom_account_daily_reports/report/report_daybook.py",
+    "destination": "report/report_daybook.py"
+  },
+  {
+    "source": "custom_account_daily_reports/report/report_daybook.xml",
+    "destination": "report/report_daybook.xml"
+  },
+  {
+    "source": "custom_account_daily_reports/report/reports.xml",
+    "destination": "report/reports.xml"
+  },
+  {
+    "source": "custom_account_daily_reports/security/ir.model.access.csv",
+    "destination": "security/ir.model.access.csv"
+  },
+  {
+    "source": "custom_account_daily_reports/static/description/icon.png",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_daily_reports/static/description/icon.svg",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_daily_reports/static/description/index.html",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_daily_reports/views/custom_daily_reports.xml",
+    "destination": "views/custom_daily_reports.xml"
+  },
+  {
+    "source": "custom_account_daily_reports/wizard/__init__.py",
+    "destination": "wizard/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_daily_reports/wizard/account_bankbook_report.py",
+    "destination": "wizard/account_bankbook_report.py"
+  },
+  {
+    "source": "custom_account_daily_reports/wizard/account_cashbook_report.py",
+    "destination": "wizard/account_cashbook_report.py"
+  },
+  {
+    "source": "custom_account_daily_reports/wizard/account_daybook_report.py",
+    "destination": "wizard/account_daybook_report.py"
+  },
+  {
+    "source": "custom_account_daily_reports/wizard/bankbook.xml",
+    "destination": "wizard/bankbook.xml"
+  },
+  {
+    "source": "custom_account_daily_reports/wizard/cashbook.xml",
+    "destination": "wizard/cashbook.xml"
+  },
+  {
+    "source": "custom_account_daily_reports/wizard/daybook.xml",
+    "destination": "wizard/daybook.xml"
+  },
+  {
+    "source": "custom_account_followup/__init__.py",
+    "destination": "__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_followup/__manifest__.py",
+    "destination": "__manifest__.py"
+  },
+  {
+    "source": "custom_account_followup/data/mail_template_data.xml",
+    "destination": "data/mail_template_data.xml"
+  },
+  {
+    "source": "custom_account_followup/demo/demo.xml",
+    "destination": "demo/demo.xml"
+  },
+  {
+    "source": "custom_account_followup/i18n/ar_001.po",
+    "destination": "i18n/ar_001.po"
+  },
+  {
+    "source": "custom_account_followup/i18n/ar_SY.po",
+    "destination": "i18n/ar_SY.po"
+  },
+  {
+    "source": "custom_account_followup/i18n/de.po",
+    "destination": "i18n/de.po"
+  },
+  {
+    "source": "custom_account_followup/i18n/es_AR.po",
+    "destination": "i18n/es_AR.po"
+  },
+  {
+    "source": "custom_account_followup/i18n/fr.po",
+    "destination": "i18n/fr.po"
+  },
+  {
+    "source": "custom_account_followup/i18n/tr.po",
+    "destination": "i18n/tr.po"
+  },
+  {
+    "source": "custom_account_followup/i18n/uk.po",
+    "destination": "i18n/uk.po"
+  },
+  {
+    "source": "custom_account_followup/i18n/zh_TW.po",
+    "destination": "i18n/zh_TW.po"
+  },
+  {
+    "source": "custom_account_followup/models/__init__.py",
+    "destination": "models/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_followup/models/account_move.py",
+    "destination": "models/account_move_line.py"
+  },
+  {
+    "source": "custom_account_followup/models/followup.py",
+    "destination": "models/followup.py"
+  },
+  {
+    "source": "custom_account_followup/models/followup_partner.py",
+    "destination": "models/followup_partner.py"
+  },
+  {
+    "source": "custom_account_followup/models/partner.py",
+    "destination": "models/partner.py"
+  },
+  {
+    "source": "custom_account_followup/models/settings.py",
+    "destination": "models/res_config_settings.py"
+  },
+  {
+    "source": "custom_account_followup/report/__init__.py",
+    "destination": "report/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_followup/report/followup_print.py",
+    "destination": "report/followup_print.py"
+  },
+  {
+    "source": "custom_account_followup/report/followup_report.py",
+    "destination": "report/followup_report.py"
+  },
+  {
+    "source": "custom_account_followup/report/followup_report.xml",
+    "destination": "report/followup_report.xml"
+  },
+  {
+    "source": "custom_account_followup/security/ir.model.access.csv",
+    "destination": "security/ir.model.access.csv"
+  },
+  {
+    "source": "custom_account_followup/security/security.xml",
+    "destination": "security/security.xml"
+  },
+  {
+    "source": "custom_account_followup/static/description/icon.png",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_followup/static/description/icon.svg",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_followup/static/description/index.html",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_followup/views/account_move.xml",
+    "destination": "views/account_move.xml"
+  },
+  {
+    "source": "custom_account_followup/views/followup_partner_view.xml",
+    "destination": "views/followup_partner_view.xml"
+  },
+  {
+    "source": "custom_account_followup/views/followup_view.xml",
+    "destination": "views/followup_view.xml"
+  },
+  {
+    "source": "custom_account_followup/views/partners.xml",
+    "destination": "views/partners.xml"
+  },
+  {
+    "source": "custom_account_followup/views/report_followup.xml",
+    "destination": "views/report_followup.xml"
+  },
+  {
+    "source": "custom_account_followup/views/reports.xml",
+    "destination": "views/reports.xml"
+  },
+  {
+    "source": "custom_account_followup/wizard/__init__.py",
+    "destination": "wizard/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_followup/wizard/followup_print.py",
+    "destination": "wizard/followup_print.py"
+  },
+  {
+    "source": "custom_account_followup/wizard/followup_print_view.xml",
+    "destination": "wizard/followup_print_view.xml"
+  },
+  {
+    "source": "custom_account_followup/wizard/followup_results.py",
+    "destination": "wizard/followup_results.py"
+  },
+  {
+    "source": "custom_account_followup/wizard/followup_results_view.xml",
+    "destination": "wizard/followup_results_view.xml"
+  },
+  {
+    "source": "custom_account_accountant/__init__.py",
+    "destination": "__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_accountant/__manifest__.py",
+    "destination": "__manifest__.py"
+  },
+  {
+    "source": "custom_account_accountant/doc/index.rst",
+    "destination": "README.md (combined documentation)"
+  },
+  {
+    "source": "custom_account_accountant/doc/translators.md",
+    "destination": "README.md (combined documentation)"
+  },
+  {
+    "source": "custom_account_accountant/i18n/ar_001.po",
+    "destination": "i18n/ar_001.po"
+  },
+  {
+    "source": "custom_account_accountant/i18n/ar_SY.po",
+    "destination": "i18n/ar_SY.po"
+  },
+  {
+    "source": "custom_account_accountant/i18n/es_AR.po",
+    "destination": "i18n/es_AR.po"
+  },
+  {
+    "source": "custom_account_accountant/i18n/es_MX.po",
+    "destination": "i18n/es_MX.po"
+  },
+  {
+    "source": "custom_account_accountant/i18n/fr.po",
+    "destination": "i18n/fr.po"
+  },
+  {
+    "source": "custom_account_accountant/i18n/id.po",
+    "destination": "i18n/id.po"
+  },
+  {
+    "source": "custom_account_accountant/i18n/tr.po",
+    "destination": "i18n/tr.po"
+  },
+  {
+    "source": "custom_account_accountant/i18n/uk.po",
+    "destination": "i18n/uk.po"
+  },
+  {
+    "source": "custom_account_accountant/i18n/zh_TW.po",
+    "destination": "i18n/zh_TW.po"
+  },
+  {
+    "source": "custom_account_accountant/models/__init__.py",
+    "destination": "models/__init__.py (imports rebuilt)"
+  },
+  {
+    "source": "custom_account_accountant/models/account_move.py",
+    "destination": "models/account_move.py"
+  },
+  {
+    "source": "custom_account_accountant/models/settings.py",
+    "destination": "models/res_config_settings.py"
+  },
+  {
+    "source": "custom_account_accountant/security/group.xml",
+    "destination": "security/security.xml"
+  },
+  {
+    "source": "custom_account_accountant/static/description/icon.png",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_accountant/static/description/icon.svg",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_accountant/static/description/index.html",
+    "destination": "static/description/ (one application identity)"
+  },
+  {
+    "source": "custom_account_accountant/views/account_bank_statement.xml",
+    "destination": "views/account_bank_statement.xml"
+  },
+  {
+    "source": "custom_account_accountant/views/account_group.xml",
+    "destination": "views/account_group.xml"
+  },
+  {
+    "source": "custom_account_accountant/views/account_journal.xml",
+    "destination": "views/account_journal.xml"
+  },
+  {
+    "source": "custom_account_accountant/views/account_tag.xml",
+    "destination": "views/account_tag.xml"
+  },
+  {
+    "source": "custom_account_accountant/views/menu.xml",
+    "destination": "views/accounting_menu.xml"
+  },
+  {
+    "source": "custom_account_accountant/views/payment_method.xml",
+    "destination": "views/payment_method.xml"
+  },
+  {
+    "source": "custom_account_accountant/views/reconciliation.xml",
+    "destination": "views/reconciliation.xml"
+  },
+  {
+    "source": "custom_account_accountant/views/res_partner.xml",
+    "destination": "views/res_partner.xml"
+  },
+  {
+    "source": "custom_account_accountant/views/settings.xml",
+    "destination": "views/res_config_settings_views.xml"
+  }
+]
